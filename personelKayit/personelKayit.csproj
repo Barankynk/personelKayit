@@ -71,16 +71,6 @@
     <Compile Include="Frmistatistik.Designer.cs">
       <DependentUpon>Frmistatistik.cs</DependentUpon>
     </Compile>
-    <Compile Include="PersonelVeritabaniDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>PersonelVeritabaniDataSet.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="PersonelVeritabaniDataSet1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>PersonelVeritabaniDataSet1.xsd</DependentUpon>
-    </Compile>
     <Compile Include="PersonelVeritabaniDataSet2.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -109,28 +99,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="PersonelVeritabaniDataSet.xsc">
-      <DependentUpon>PersonelVeritabaniDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="PersonelVeritabaniDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>PersonelVeritabaniDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="PersonelVeritabaniDataSet.xss">
-      <DependentUpon>PersonelVeritabaniDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="PersonelVeritabaniDataSet1.xsc">
-      <DependentUpon>PersonelVeritabaniDataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="PersonelVeritabaniDataSet1.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>PersonelVeritabaniDataSet1.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="PersonelVeritabaniDataSet1.xss">
-      <DependentUpon>PersonelVeritabaniDataSet1.xsd</DependentUpon>
-    </None>
     <None Include="PersonelVeritabaniDataSet2.xsc">
       <DependentUpon>PersonelVeritabaniDataSet2.xsd</DependentUpon>
     </None>
